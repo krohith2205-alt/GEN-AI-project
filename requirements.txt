@@ -1,0 +1,11 @@
+streamlit>=1.35
+pandas>=2.0
+python-dotenv>=1.0
+langchain-core>=0.2
+langchain-community>=0.2
+langchain-huggingface>=0.0.3
+langchain-text-splitters>=0.2
+sentence-transformers>=2.7
+faiss-cpu>=1.8
+huggingface_hub>=0.24
+pytest>=8.0
